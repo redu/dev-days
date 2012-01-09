@@ -1,0 +1,6 @@
+[submodule "01-dojo-ruby-101"]
+	path = 01-dojo-ruby-101
+	url = git://github.com/guiocavalcanti/ruby-101-dev-day.git
+[submodule "02-dojo-sass"]
+	path = 02-dojo-sass
+	url = git://github.com/guiocavalcanti/sass-Dev-day.git
